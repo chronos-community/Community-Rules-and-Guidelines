@@ -110,12 +110,21 @@ Tüm şikayetler incelenecek ve yanıt verilecektir. Bu kurallara uyulmaması du
 
 <h2>Atıf ve Lisans</h2>
 Bu manifestonun oluşturulma sürecinde aşağıdaki topuluklardan esinlenilmiştir.
+
 CouchDB Projesi Davranış Kuralları
+
 Fedora Projesi Davranış Kuralları
+
 Konuş! Davranış kodu
+
 Django Davranış Kuralları
+
 Debian Davranış Kuralları
+
 Twitter Açık Kaynak Davranış Kuralları
+
 Mozilla Davranış Kuralları/Taslak
+
 Python Çeşitliliği Ek
+
 Python Mentorları Ana Sayfası
